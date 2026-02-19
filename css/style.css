@@ -19,6 +19,14 @@
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600&display=swap');
+@font-face {
+  font-family: 'MaPolice';
+  src: url('https://burbanofficial.github.io/eportolio//assets/fonts/Personalfont-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
 
 html {
     scroll-behavior: smooth;
@@ -331,6 +339,7 @@ img {
 }
 
 .about-block-text {
+    font-family: 'MaPolice', sans-serif;
     font-size: 1rem;
     line-height: 1.6;
     color: var(--color-gray);
