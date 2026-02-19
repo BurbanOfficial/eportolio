@@ -1,0 +1,11 @@
+<svg width="1600" height="900" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad4" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2a2a2a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a1a1a;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#grad4)"/>
+  <text x="50%" y="48%" font-family="serif" font-size="64" fill="#f5f5f5" text-anchor="middle" opacity="0.3">ATELIER NOIR</text>
+  <text x="50%" y="54%" font-family="sans-serif" font-size="20" fill="#999" text-anchor="middle" opacity="0.3">1600 × 900</text>
+</svg>
